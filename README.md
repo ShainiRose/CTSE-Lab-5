@@ -66,18 +66,7 @@ docker compose down
 - Order Service: `http://localhost:8082`
 - Payment Service: `http://localhost:8083`
 
-## API Testing Evidence (for submission)
-Add your testing files/screenshots in an `evidence/` folder, for example:
-- Postman collection export (`.json`)
-- Postman environment export (`.json`)
-- API response screenshots
-- `docker compose ps` screenshot showing all containers running
 
-## Public GitHub Submission
-1. Keep this repository public.
-2. Make sure all service source code is included.
-3. Include Docker setup (`docker-compose.yml` + each service Docker file).
-4. Include API testing evidence in `evidence/`.
 
 ---
 
