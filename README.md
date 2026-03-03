@@ -59,7 +59,7 @@ Stop all services:
 ```powershell
 docker compose down
 ```
-
+Import the microservices-lab5.postman_collection.json into Postman to test the endpoints.
 ## Service Ports
 - API Gateway: `http://localhost:8080`
 - Item Service: `http://localhost:8081`
