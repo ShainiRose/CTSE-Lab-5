@@ -66,6 +66,10 @@ docker compose down
 - Order Service: `http://localhost:8082`
 - Payment Service: `http://localhost:8083`
 
+## Postman Testing
+- Import `microservices-lab5.postman_collection.json` into Postman to test all endpoints.
+- Base URL for the collection: `http://localhost:8080`
+
 ## API Testing Evidence (for submission)
 Add your testing files/screenshots in an `evidence/` folder, for example:
 - Postman collection export (`.json`)
